@@ -1,9 +1,9 @@
 <h1 align="left">Olá 👋, Eu sou o Artur Dias</h1>
 <h3 align="left">Uma pessoa apixonada por Ciências de dados e Machine Learning</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Deep learning e Visão Computacional**
+- 🌱 Atualmente estou aprendendo sobre **Cyber Security**
 
-- 👯 Eu procuro colaborar com **projetos de dados e IA**
+- 👯 Eu procuro colaborar com **projetos de dados e IA e Cyber Security**
 
 - 👨‍💻 Todos meus projetos em [https://github.com/aarturdias/portfolio-ciencias-de-dados](https://github.com/aarturdias/portfolio-ciencias-de-dados)
 
